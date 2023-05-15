@@ -6,7 +6,7 @@ import Data from './components/Data';
 function App() {
   return (
 
-    <Flex w='65vw' h='100vh' m='auto' direction='column'>
+    <Flex w='100vw' h='100vh' m='auto' direction='column'>
       <Flex borderBottom='1px solid grey' p='.5rem' justifyContent='space-between' alignItems='center'>
         <Flex gap='1rem'>
           <AiOutlineArrowLeft size='1.5rem' cursor='pointer' />
